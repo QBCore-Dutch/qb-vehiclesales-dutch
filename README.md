@@ -24,7 +24,6 @@ Used Car Sale for QB-Core Framework :blue_car:
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-garages](https://github.com/qbcore-framework/qb-garages) - Vehicle ownership
 - [qb-phone](https://github.com/qbcore-framework/qb-phone) - For the e-mail
-- [qb-logs](https://github.com/qbcore-framework/qb-logs) - Keep event logs
 
 ## Screenshots
 ![Put Vehicle On Sale](https://imgur.com/bzE9e3o.png)
